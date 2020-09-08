@@ -1,8 +1,8 @@
 ---
-title: "March 2020 Responsibilities"
-subtitle: "Monthly assignments for worship services"
+title: March 2020 Responsibilities
+subtitle: Monthly assignments for worship services
 date: 2020-05-09T10:05:49+10:00
-draft: false
+draft: true
 ---
 
 ### For the Month
