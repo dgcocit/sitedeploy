@@ -4,8 +4,6 @@ subtitle: ""
 date: 2020-06-28T05:00:00.000Z
 draft: false
 ---
-
-
 ### Updated June 28, 2020
 
 Starting July 5, the sequence of services will be as follows: at 9am, we will meet for the sermon and Lord's Supper at the building. This will stream on [our YouTube channel](https://www.youtube.com/channel/UC0kUKcP_9v4_WfhyDAN5DOg) as well. Bible class will run from 10:30am to 11:15am on Zoom. Hopefully this will give more people the opportunity to gather in person and also participate in Bible class.
@@ -22,6 +20,6 @@ We ask that each one wear their masks except for partaking of the Lord’s suppe
 
 Again, if you have any symptoms, you should stay home. Those in high-risk groups who do not feel safe assembling at this time should not feel pressured to attend.
 
-REMINDER: If you enter the building after 9am, you will be entering during the livestream. *Please enter quietly.*
+**REMINDER**: If you enter the building after 9am, you will be entering during the livestream. *Please enter quietly.*
 
 Thank you for your cooperation!
