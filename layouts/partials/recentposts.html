@@ -1,0 +1,7 @@
+<h3>Latest Post</h3>
+    {{ range first 1 ( where .Site.Pages "Type" "posts" ) }}
+    
+    <li><h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    <p>{{ .Summary }}</p></li>
+    
+    {{ end }}
