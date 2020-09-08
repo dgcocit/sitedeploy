@@ -1,7 +1,7 @@
 ---
-title: "COVID-19 Update"
+title: COVID-19 Update
 subtitle: ""
-date: 2020-05-30T10:05:49+10:00
+date: 2020-06-28T05:00:00.000Z
 draft: false
 ---
 
