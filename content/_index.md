@@ -27,7 +27,7 @@
     icon_pack = "fas"
     accent = "1"
     title = "Who we are"
-    text = "Our mission here is to acquaint our community with the New Testament church as described in the Bible. We want to lead others to become Christians and only Christians. The Bible reveals that YOU can belong to Christ without belonging to a human institution."
+    text = "Our mission here is to acquaint our community with the New Testament church as described in the Bible. We want to lead others to become Christians and only Christians. The Bible reveals that you can belong to Christ without belonging to a human institution."
     
   [[feature_icons.tile]]
     icon = "fa-comments"
