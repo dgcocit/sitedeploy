@@ -47,7 +47,7 @@ unsafe = true
     url = "/leaders"
     weight = 2
     
-  [[menu.main]]
+  [[menu.main]] #SPECIAL EVENT
   	name = "COVID-19 update"
   	parent = "About"
   	url = "/covid"
