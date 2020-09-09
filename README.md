@@ -6,7 +6,7 @@ This admin page can use Rich Text or Markdown code. For Rich Text, use the butto
 
 Markdown code is an easy and versatile option for formatting text. You can read more about it at https://daringfireball.net/projects/markdown/syntax.
 
-**If you are updating the responsibilities page,** go to https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/. You should have the responsibilities charts in a spreadsheet file. Copy the fields one section (Sunday mornings, Wednesday evenings, etc) and paste it into the text field on that site. It will generate the Markdown code you need for the website.
+**If you are updating the responsibilities page,** go to https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/. You should have the responsibilities charts in a spreadsheet file. Copy the fields for one section (Sunday mornings, Wednesday evenings, etc) and paste it into the text field on that site. It will generate the Markdown code you need for the website.
 
 You can update the responsibilities page in the admin section described at the top. In the Body section on the left side of the page, toggle the switch from Rich Text to Markdown. Paste the Markdown code you generated with the link above in the Body field. Repeat this with the other sections of the page. Change the page title to the correct month.
 
