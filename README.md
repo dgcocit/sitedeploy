@@ -18,11 +18,11 @@ There are not many things you will want to change in this file, mostly the text 
 
 **If you are updating the menu,** please be sure you really want to do this. You must do this in Github. In the "sitedeploy" repository, select the file config.toml. Most of this file is settings for the menu. A menu item looks like this:
 
-  [[menu.main]]
-    name = "Leaders"
-    parent = "About"
-    url = "/leaders"
-    weight = 2
+    [[menu.main]]
+      name = "Leaders"
+      parent = "About"
+      url = "/leaders"
+      weight = 2
     
 Copy one of these blocks and paste a new copy where you want the new item to appear. The name field is what will appear in the menu. The parent field is which submenu the item appears in. (If your new item is a submenu or a top-level item, delete the parent line or add a hashmark to the beginning of the line.) The url field is the link for the page. (Remove or hashmark this field if this is a submenu heading and does not need to link to a page.) The weight field determines the order of items in the menu. If you are adding this to the middle of a menu, be sure you add one to each of the other menu items that will now follow it.
  
