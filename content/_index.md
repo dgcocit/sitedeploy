@@ -1,8 +1,12 @@
 +++
+#The site banner has two buttons. The first one directs to the contact page. Do not alter the url or text fields of this one. If you are not using the second button for an announcement, you might want to remove the hashmark from the type line in the first button and add one to the type line of the second. This will make the first button the primary one. (A hashmark at the beginning of a line in this file will tell the browser to ignore that line. This lets you deactivate a line without actually deleting it, which is helpful if you want to be able to toggle a thing off and on.)
+#
+#The second button can be changed as needed, particularly for special annoucements (like a gospel meeting or an emergency). Change the URL to the name of the page (e.g. /covid, /meeting) so the button will link to the page. If the first button is designated as the primary button, add a hashmark to the beginning of the type line for the first button and remove it from the type line for the second button.
 [banner]
   [[banner.button]]
       url = "/contact"
       text = "Get in touch"
+      #type = "primary"
 
   [[banner.button]]
       url = "/covid"
@@ -13,7 +17,7 @@
 #In the event of an emergency or special announcement, place a hashmark at the beginning of the "Join us for worship" title line and remove the hashmark from the other, editing the text there as needed. You cannot use line breaks in a title.
 [services]
   title = "As of July 5, our meeting and class times are changing. Please click the COVID-19 update button above for information on streaming services and limited in-person gathering."
-# title = "Join us for worship."
+#title = "Join us for worship."
   #text = "<p>Sunday morning: Bible study @ 9am, worship @ 9:50am</p> <br> <p>Sunday evening: worship @ 6pm</p> <br> <p>Wednesday evening: Bible study @ 7:30pm</p>"
   map_location = "Downers Grove church of Christ"
 
