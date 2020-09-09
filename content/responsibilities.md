@@ -2,7 +2,7 @@
 title: March 2020 Responsibilities
 subtitle: Monthly assignments for worship services
 date: 2020-05-09T10:05:49+10:00
-draft: true
+draft: false
 ---
 
 ### For the Month
