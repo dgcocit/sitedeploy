@@ -16,7 +16,7 @@ There are not many things you will want to change in this file, mostly the text 
 
 (Also, please note that lines are numbered, and a single line can appear to be more than one. All the paragraphs in this document have a single line number and are considered a single line in the document. So to hide a paragraph in this document, you would only need one hashmark at the beginning of the paragraph.)
 
-**If you are updating the menu,** please be sure you really want to do this. You must do this in Github. In the "sitedeploy" repository, select the file config.toml. Most of this file is settings for the menu. A menu item looks like this:
+**If you are updating the menu,** please be sure you really want to do this. You must do this in Github. In the "sitedeploy" repository, select the file config.toml. In the bar above the large text field, click the pencil icon on the far right side. This opens the editor. Most of this file is settings for the menu. A menu item looks like this:
 
     [[menu.main]]
       name = "Leaders"
