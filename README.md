@@ -1,6 +1,6 @@
 # How to update the website
 
-**If you are updating a page on the website,** go to dgcoc.org/admin. You will be prompted to log in. Click on the Google button and log in using the dgcocit address. (If you don't have those login credentials, talk to Dave Malcomson, Peter Jetton, or Anna Jetton.) From there you can edit all blog posts and all pages EXCEPT the front page of the website. You can also add blog posts and pages. All fields are required except for tags, but you are strongly encouraged to tag blog posts to make it easier to sort and find posts.
+**If you are updating a page on the website,** go to dgcoc.org/admin. You will be prompted to log in. Click on the Google button and log in using the dgcocit address. (If you don't have those login credentials, talk to Dave M., Peter J., or Anna J.) From there you can edit all blog posts and all pages EXCEPT the front page of the website. You can also add blog posts and pages. All fields are required except for tags, but you are strongly encouraged to tag blog posts to make it easier to sort and find posts.
 
 This admin page can use Rich Text or Markdown code. For Rich Text, use the buttons to format your text. (You do not need to do anything to create the popup links for Bible references. Those are generated automatically when you reference a verse as Book Ch:Vs. The book names can be abbreviated. If the verse reference is not underlined on the published page, check your spelling and chapter/verse numbers. You might also try a different abbreviation for the book name.)
 
